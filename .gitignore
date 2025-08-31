@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# VS / VSCode
+.vs/
+.vscode/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Certificates
+*.pfx
+
+# Others
+launchSettings.json
